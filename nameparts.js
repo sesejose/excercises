@@ -32,3 +32,5 @@ console.log("searchLind:", findLastName);
 
 const peter = str.substring(0, 5);
 console.log(peter);
+
+//
