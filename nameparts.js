@@ -1,3 +1,7 @@
+"use strict";
+
+// Done !!!
+
 const str = "Peter Heronimous Lind"; //substring the full sentence has 20
 const fullName = str.split(" ");
 
