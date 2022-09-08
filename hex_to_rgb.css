@@ -1,0 +1,22 @@
+.hex,
+.rgb {
+  display: flex;
+  width: 100px;
+  height: 100px;
+}
+
+.rgb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  margin: 0 0 20px 0;
+}
+
+.hex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ccc;
+  margin: 0 0 20px 0;
+}
